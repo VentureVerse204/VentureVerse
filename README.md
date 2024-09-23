@@ -61,5 +61,3 @@ Join us on this exciting journey to **Create, Relate, Innovate**! 🌍💼
 _Made with 💡 by the innovators at VentureVerse @ ASU_
 
 ---
-
-Once you’ve uploaded the image to GitHub, just ensure that the image URL matches the path to where you upload the logo (e.g., `./assets/image.png`).
