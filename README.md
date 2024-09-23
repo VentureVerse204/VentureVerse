@@ -1,7 +1,8 @@
 # Welcome to **VentureVerse @ ASU** 🚀
 
 ![VentureVerse Logo](./assets/image.jpeg)
-**Motto**: _Create, Relate, Innovate_
+
+**_Create, Relate, Innovate_**
 
 ## About Us 🌟
 
