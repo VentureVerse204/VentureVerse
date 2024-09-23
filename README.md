@@ -46,11 +46,15 @@ Want to contribute? Whether you're sharing an opportunity or collaborating on a 
 
 Join us on this exciting journey to **Create, Relate, Innovate**! 🌍💼
 
-## **Follow Us on Instagram using the link below: 
+## Follow Us on Instagram using the link below:
 <a href = "https://www.instagram.com/ventureverse_asu/">
-  <img src = "https://banner2.cleanpng.com/20240112/pil/transparent-instagram-logo-colorful-camera-with-red-light-on-black-1710926114455.webp"> 
+  Instagram Link
 </a>
 
+## Become a member on our Sun Devil Sync
+<a href = "https://asu.campuslabs.com/engage/organization/ventureverse">
+  Sun Devil Sync Link
+</a>
 ---
 
 _Made with 💡 by the innovators at VentureVerse @ ASU_
