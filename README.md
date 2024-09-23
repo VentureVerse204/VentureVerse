@@ -55,6 +55,7 @@ Join us on this exciting journey to **Create, Relate, Innovate**! 🌍💼
 <a href = "https://asu.campuslabs.com/engage/organization/ventureverse">
   Sun Devil Sync Link
 </a>
+
 ---
 
 _Made with 💡 by the innovators at VentureVerse @ ASU_
