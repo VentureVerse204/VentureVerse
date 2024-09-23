@@ -1,5 +1,3 @@
----
-
 # Welcome to **VentureVerse @ ASU** 🚀
 
 **Motto**: _Create, Relate, Innovate_
@@ -18,7 +16,6 @@ At **VentureVerse**, we believe in:
 
 If you're ready to shape the future, innovate, and make a lasting impact, you've found your tribe!
 
----
 
 ## 🚀 **Opportunities Await!**
 
